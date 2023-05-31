@@ -92,10 +92,3 @@ A API da batalha deverá retornar os dados da batalha: nome dos heróis, uma lis
   
 
 *Um herói não pode batalhar contra outro que esteja do mesmo lado da lei.*
-
-## Especificação Técnica
-
- - Você pode construir em qualquer linguagem de programação que se sentir mais confortável.
- - Você deve enviar as intruções de como rodar o projeto. Preferível se estiver [Dockerizado](https://www.docker.com/)
-- O sistema deve obrigatoriamente funcionar através de APIs e não através de interface web ou mobile.
-- O código deve ser commitado neste repositório e deve conter também o contrato das APIs (pode ser um swagger não funcional, um txt com os cURLs, collection do Postman etc)
